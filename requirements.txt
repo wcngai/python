@@ -1,0 +1,10 @@
+pylint
+pytest
+openai
+requests
+fastapi
+beautifulsoup4
+click
+transformers
+tensorflow
+wikipedia
